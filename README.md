@@ -33,3 +33,7 @@ sales performance, top contributors, channel distribution, and sales team effect
 
 ## Notes
 Negative sales values were treated as returns
+## SQL Queries
+All SQL queries used in this project are available here:
+`sql/pharma_sales_analysis.sql`
+
